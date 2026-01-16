@@ -1,0 +1,13 @@
+{
+  "name": "superpowers-zh",
+  "description": "Claude Code 中文技能库：TDD、调试、协作模式和最佳实践",
+  "version": "1.0.0",
+  "author": {
+    "name": "Chinese Translation",
+    "email": ""
+  },
+  "homepage": "https://github.com/obra/superpowers",
+  "repository": "https://github.com/obra/superpowers",
+  "license": "MIT",
+  "keywords": ["技能", "tdd", "调试", "协作", "最佳实践", "工作流", "中文"]
+}
