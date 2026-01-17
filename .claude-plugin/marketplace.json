@@ -1,20 +1,23 @@
 {
-  "name": "superpowers-zh-dev",
-  "description": "Superpowers 中文版 - AI 编码代理技能框架",
+  "name": "superpowers-zh",
   "owner": {
-    "name": "Chinese Translation",
-    "email": ""
+    "name": "stflj2022",
+    "email": "stflj2018@gmail.com"
+  },
+  "metadata": {
+    "description": "Superpowers 中文版 - AI 编码代理技能框架",
+    "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "superpowers-zh",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
       "description": "Claude Code 中文技能库：TDD、调试、协作模式和最佳实践",
       "version": "1.0.0",
-      "source": "./",
-      "author": {
-        "name": "Chinese Translation",
-        "email": ""
-      }
+      "strict": true
     }
   ]
 }
